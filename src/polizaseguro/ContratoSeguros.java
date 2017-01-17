@@ -7,7 +7,7 @@ package polizaseguro;
 
 /**
  *
- * @author a053881694p
+ * @author Empar Ibáñez
  */
 public class ContratoSeguros {
     
